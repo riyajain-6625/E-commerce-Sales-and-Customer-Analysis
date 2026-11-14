@@ -87,5 +87,7 @@ Limitations
 - Delivered order value is a sales measure, not audited revenue or net profit.
 - Operating expenses, taxes, discounts and shipping details are not modelled; profitability and delivery-speed analysis are outside scope.
 - Payment status and order status are separate measures and should not be combined without care.
+
+
 Author: Riya Jain
 Focus: SQL · E-Commerce Analytics · Business Intelligence · Portfolio Project
