@@ -1,0 +1,121 @@
+product_id,product_name,category,cost_price
+1,Wireless Earbuds Premium,Electronics,711
+2,Bluetooth Speaker Premium,Electronics,957
+3,Smartwatch Premium,Electronics,1493
+4,Power Bank Premium,Electronics,684
+5,Phone Charger Premium,Electronics,244
+6,USB Cable Premium,Electronics,138
+7,Wireless Mouse Premium,Electronics,447
+8,Keyboard Premium,Electronics,508
+9,Webcam Premium,Electronics,852
+10,Tablet Stand Premium,Electronics,279
+11,Wireless Earbuds Classic,Electronics,642
+12,Bluetooth Speaker Classic,Electronics,830
+13,Smartwatch Classic,Electronics,1073
+14,Power Bank Classic,Electronics,685
+15,Phone Charger Classic,Electronics,268
+16,USB Cable Classic,Electronics,139
+17,Wireless Mouse Classic,Electronics,414
+18,Keyboard Classic,Electronics,503
+19,Webcam Classic,Electronics,1055
+20,Tablet Stand Classic,Electronics,338
+21,Cotton T-Shirt Premium,Fashion,328
+22,Denim Jeans Premium,Fashion,806
+23,Running Shoes Premium,Fashion,1119
+24,Hoodie Premium,Fashion,878
+25,Kurti Premium,Fashion,554
+26,Handbag Premium,Fashion,1177
+27,Sneakers Premium,Fashion,1692
+28,Sunglasses Premium,Fashion,401
+29,Cotton Shirt Premium,Fashion,533
+30,Backpack Premium,Fashion,715
+31,Cotton T-Shirt Classic,Fashion,329
+32,Denim Jeans Classic,Fashion,682
+33,Running Shoes Classic,Fashion,1462
+34,Hoodie Classic,Fashion,901
+35,Kurti Classic,Fashion,528
+36,Handbag Classic,Fashion,1136
+37,Sneakers Classic,Fashion,
+38,Sunglasses Classic,Fashion,459
+39,Cotton Shirt Classic,Fashion,574
+40,Backpack Classic,Fashion,817
+41,Bedsheet Premium,Home,566
+42,Table Lamp Premium,Home,490
+43,Water Bottle Premium,Home,192
+44,Storage Box Premium,Home,247
+45,Wall Clock Premium,Home,380
+46,Cushion Cover Premium,Home,180
+47,Lunch Box Premium,Home,293
+48,Kitchen Rack Premium,Home,789
+49,Bath Towel Premium,Home,291
+50,Door Mat Premium,Home,212
+51,Bedsheet Classic,Home,643
+52,Table Lamp Classic,Home,493
+53,Water Bottle Classic,Home,227
+54,Storage Box Classic,Home,311
+55,Wall Clock Classic,Home,429
+56,Cushion Cover Classic,Home,165
+57,Lunch Box Classic,Home,267
+58,Kitchen Rack Classic,Home,865
+59,Bath Towel Classic,Home,252
+60,Door Mat Classic,Home,234
+61,Face Wash Premium,Beauty,207
+62,Moisturizer Premium,Beauty,273
+63,Sunscreen Premium,Beauty,435
+64,Shampoo Premium,Beauty,303
+65,Hair Oil Premium,Beauty,182
+66,Lip Balm Premium,Beauty,139
+67,Body Lotion Premium,Beauty,253
+68,Face Serum Premium,Beauty,584
+69,Conditioner Premium,Beauty,238
+70,Perfume Premium,Beauty,671
+71,Face Wash Classic,Beauty,234
+72,Moisturizer Classic,Beauty,275
+73,Sunscreen Classic,Beauty,390
+74,Shampoo Classic,Beauty,
+75,Hair Oil Classic,Beauty,215
+76,Lip Balm Classic,Beauty,139
+77,Body Lotion Classic,Beauty,273
+78,Face Serum Classic,Beauty,590
+79,Conditioner Classic,Beauty,230
+80,Perfume Classic,Beauty,630
+81,Basmati Rice Premium,Grocery,383
+82,Cooking Oil Premium,Grocery,469
+83,Green Tea Premium,Grocery,154
+84,Coffee Pack Premium,Grocery,319
+85,Almonds Premium,Grocery,439
+86,Oats Premium,Grocery,183
+87,Honey Premium,Grocery,302
+88,Granola Premium,Grocery,299
+89,Peanut Butter Premium,Grocery,246
+90,Mixed Nuts Premium,Grocery,343
+91,Basmati Rice Classic,Grocery,468
+92,Cooking Oil Classic,Grocery,505
+93,Green Tea Classic,Grocery,175
+94,Coffee Pack Classic,Grocery,302
+95,Almonds Classic,Grocery,595
+96,Oats Classic,Grocery,158
+97,Honey Classic,Grocery,262
+98,Granola Classic,Grocery,288
+99,Peanut Butter Classic,Grocery,259
+100,Mixed Nuts Classic,Grocery,352
+101,Yoga Mat Premium,Sports,483
+102,Football Premium,Sports,344
+103,Skipping Rope Premium,Sports,158
+104,Resistance Bands Premium,Sports,341
+105,Gym Gloves Premium,Sports,284
+106,Dumbbell Set Premium,Sports,1032
+107,Water Flask Premium,Sports,264
+108,Sports Towel Premium,Sports,194
+109,Cricket Bat Premium,Sports,1301
+110,Badminton Racket Premium,Sports,730
+111,Yoga Mat Classic,Sports,
+112,Football Classic,Sports,364
+113,Skipping Rope Classic,Sports,149
+114,Resistance Bands Classic,Sports,334
+115,Gym Gloves Classic,Sports,260
+116,Dumbbell Set Classic,Sports,1025
+117,Water Flask Classic,Sports,286
+118,Sports Towel Classic,Sports,192
+119,Cricket Bat Classic,Sports,1469
+120,Badminton Racket Classic,Sports,871
